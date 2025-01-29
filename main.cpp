@@ -12,6 +12,6 @@
 
 int main() {
 	cout << "Hello Programming II" << endl;
-	cout << "hey this is the github assignment. bababooey." << endl;
+	cout << "hey this is the github assignment. bababooey. " << endl;
 	return 0; 
 }
